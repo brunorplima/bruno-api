@@ -1,0 +1,528 @@
+{
+   "vendors": [
+      {
+         "id": 1,
+         "name": "MJ Accounting LTD."
+      },
+      {
+         "id": 2,
+         "name": "Elementum Inc."
+      },
+      {
+         "id": 3,
+         "name": "Ultrices Corp."
+      },
+      {
+         "id": 4,
+         "name": "Tincidunt Tempus Associates"
+      },
+      {
+         "id": 5,
+         "name": "Diam PC"
+      },
+      {
+         "id": 6,
+         "name": "Eros Proin Ultrices Services"
+      },
+      {
+         "id": 7,
+         "name": "You Visible S.A."
+      },
+      {
+         "id": 8,
+         "name": "Metus Eu Foundation"
+      },
+      {
+         "id": 9,
+         "name": "Sit Amet Institute"
+      },
+      {
+         "id": 10,
+         "name": "Cubilia Limited"
+      }
+   ],
+   "costCodes": [
+      {
+         "id": 1,
+         "code": "100-10",
+         "description": "HR Accouting"
+      },
+      {
+         "id": 2,
+         "code": "100-40",
+         "description": "HR Assessment"
+      },
+      {
+         "id": 3,
+         "code": "100-90",
+         "description": "Staff Management"
+      },
+      {
+         "id": 4,
+         "code": "200-10",
+         "description": "Cleaning Services"
+      },
+      {
+         "id": 5,
+         "code": "200-20",
+         "description": "Facility Maintenance and Repair"
+      },
+      {
+         "id": 6,
+         "code": "200-30",
+         "description": "Catering"
+      },
+      {
+         "id": 7,
+         "code": "300-30",
+         "description": "Equipment Rental"
+      },
+      {
+         "id": 8,
+         "code": "300-40",
+         "description": "Utilities"
+      },
+      {
+         "id": 9,
+         "code": "300-50",
+         "description": "Furniture"
+      },
+      {
+         "id": 10,
+         "code": "300-70",
+         "description": "Insurance"
+      },
+      {
+         "id": 11,
+         "code": "300-80",
+         "description": "Morgage Interest"
+      },
+      {
+         "id": 12,
+         "code": "300-90",
+         "description": "Subscriptions"
+      },
+      {
+         "id": 13,
+         "code": "400-40",
+         "description": "Advertising"
+      },
+      {
+         "id": 14,
+         "code": "500-20",
+         "description": "Legal Representation"
+      },
+      {
+         "id": 15,
+         "code": "500-30",
+         "description": "Legal Fees"
+      },
+      {
+         "id": 16,
+         "code": "600-90",
+         "description": "Security System"
+      }
+   ],
+   "days": [
+      {
+         "id": 1,
+         "date": "2021-12-02"
+      },
+      {
+         "id": 2,
+         "date": "2021-12-05"
+      },
+      {
+         "id": 3,
+         "date": "2021-12-07"
+      },
+      {
+         "id": 4,
+         "date": "2021-12-08"
+      },
+      {
+         "id": 5,
+         "date": "2021-12-12"
+      },
+      {
+         "id": 6,
+         "date": "2021-12-14"
+      },
+      {
+         "id": 7,
+         "date": "2021-12-17"
+      },
+      {
+         "id": 8,
+         "date": "2021-12-18"
+      },
+      {
+         "id": 9,
+         "date": "2021-12-21"
+      },
+      {
+         "id": 10,
+         "date": "2021-12-22"
+      },
+      {
+         "id": 11,
+         "date": "2021-12-26"
+      },
+      {
+         "id": 12,
+         "date": "2021-12-28"
+      }
+   ],
+   "dailyCosts": [
+      {
+         "id": 1,
+         "costCodeId": 7,
+         "vendorId": 5,
+         "dayId": 5,
+         "amount": 1928.94
+      },
+      {
+         "id": 2,
+         "costCodeId": 8,
+         "vendorId": 3,
+         "dayId": 4,
+         "amount": 1811.04
+      },
+      {
+         "id": 3,
+         "costCodeId": 10,
+         "vendorId": 6,
+         "dayId": 1,
+         "amount": 2062.15
+      },
+      {
+         "id": 4,
+         "costCodeId": 13,
+         "vendorId": 7,
+         "dayId": 12,
+         "amount": 661.8
+      },
+      {
+         "id": 5,
+         "costCodeId": 13,
+         "vendorId": 7,
+         "dayId": 8,
+         "amount": 187.7
+      },
+      {
+         "id": 6,
+         "costCodeId": 8,
+         "vendorId": 10,
+         "dayId": 3,
+         "amount": 817.5
+      },
+      {
+         "id": 7,
+         "costCodeId": 10,
+         "vendorId": 8,
+         "dayId": 12,
+         "amount": 2497.2
+      },
+      {
+         "id": 8,
+         "costCodeId": 13,
+         "vendorId": 7,
+         "dayId": 10,
+         "amount": 189.29
+      },
+      {
+         "id": 9,
+         "costCodeId": 11,
+         "vendorId": 8,
+         "dayId": 12,
+         "amount": 2406.38
+      },
+      {
+         "id": 10,
+         "costCodeId": 10,
+         "vendorId": 6,
+         "dayId": 7,
+         "amount": 1719.77
+      },
+      {
+         "id": 11,
+         "costCodeId": 10,
+         "vendorId": 9,
+         "dayId": 3,
+         "amount": 2280.4
+      },
+      {
+         "id": 12,
+         "costCodeId": 1,
+         "vendorId": 1,
+         "dayId": 2,
+         "amount": 118.57
+      },
+      {
+         "id": 13,
+         "costCodeId": 13,
+         "vendorId": 7,
+         "dayId": 8,
+         "amount": 1015.87
+      },
+      {
+         "id": 14,
+         "costCodeId": 12,
+         "vendorId": 9,
+         "dayId": 1,
+         "amount": 1052.46
+      },
+      {
+         "id": 15,
+         "costCodeId": 4,
+         "vendorId": 10,
+         "dayId": 5,
+         "amount": 1857.19
+      },
+      {
+         "id": 16,
+         "costCodeId": 8,
+         "vendorId": 6,
+         "dayId": 12,
+         "amount": 748.26
+      },
+      {
+         "id": 17,
+         "costCodeId": 14,
+         "vendorId": 4,
+         "dayId": 10,
+         "amount": 619.66
+      },
+      {
+         "id": 18,
+         "costCodeId": 2,
+         "vendorId": 1,
+         "dayId": 11,
+         "amount": 1830.6
+      },
+      {
+         "id": 19,
+         "costCodeId": 5,
+         "vendorId": 5,
+         "dayId": 3,
+         "amount": 763.14
+      },
+      {
+         "id": 20,
+         "costCodeId": 7,
+         "vendorId": 3,
+         "dayId": 11,
+         "amount": 1645.66
+      },
+      {
+         "id": 21,
+         "costCodeId": 5,
+         "vendorId": 6,
+         "dayId": 10,
+         "amount": 942.86
+      },
+      {
+         "id": 22,
+         "costCodeId": 14,
+         "vendorId": 4,
+         "dayId": 9,
+         "amount": 1621.86
+      },
+      {
+         "id": 23,
+         "costCodeId": 12,
+         "vendorId": 6,
+         "dayId": 1,
+         "amount": 1005.44
+      },
+      {
+         "id": 24,
+         "costCodeId": 9,
+         "vendorId": 6,
+         "dayId": 11,
+         "amount": 747.24
+      },
+      {
+         "id": 25,
+         "costCodeId": 7,
+         "vendorId": 10,
+         "dayId": 3,
+         "amount": 2191.17
+      },
+      {
+         "id": 26,
+         "costCodeId": 9,
+         "vendorId": 2,
+         "dayId": 3,
+         "amount": 1180.52
+      },
+      {
+         "id": 27,
+         "costCodeId": 6,
+         "vendorId": 6,
+         "dayId": 8,
+         "amount": 1489.39
+      },
+      {
+         "id": 28,
+         "costCodeId": 10,
+         "vendorId": 2,
+         "dayId": 3,
+         "amount": 1435.12
+      },
+      {
+         "id": 29,
+         "costCodeId": 3,
+         "vendorId": 1,
+         "dayId": 3,
+         "amount": 78.44
+      },
+      {
+         "id": 30,
+         "costCodeId": 12,
+         "vendorId": 9,
+         "dayId": 4,
+         "amount": 686.55
+      },
+      {
+         "id": 31,
+         "costCodeId": 2,
+         "vendorId": 1,
+         "dayId": 7,
+         "amount": 431.55
+      },
+      {
+         "id": 32,
+         "costCodeId": 12,
+         "vendorId": 6,
+         "dayId": 5,
+         "amount": 1847.29
+      },
+      {
+         "id": 33,
+         "costCodeId": 14,
+         "vendorId": 4,
+         "dayId": 9,
+         "amount": 1746.38
+      },
+      {
+         "id": 34,
+         "costCodeId": 8,
+         "vendorId": 10,
+         "dayId": 11,
+         "amount": 345.72
+      },
+      {
+         "id": 35,
+         "costCodeId": 13,
+         "vendorId": 7,
+         "dayId": 6,
+         "amount": 1221.55
+      },
+      {
+         "id": 36,
+         "costCodeId": 7,
+         "vendorId": 5,
+         "dayId": 6,
+         "amount": 1295.73
+      },
+      {
+         "id": 37,
+         "costCodeId": 14,
+         "vendorId": 4,
+         "dayId": 7,
+         "amount": 603.1
+      },
+      {
+         "id": 38,
+         "costCodeId": 13,
+         "vendorId": 7,
+         "dayId": 11,
+         "amount": 2450.65
+      },
+      {
+         "id": 39,
+         "costCodeId": 14,
+         "vendorId": 4,
+         "dayId": 12,
+         "amount": 293.83
+      },
+      {
+         "id": 40,
+         "costCodeId": 3,
+         "vendorId": 1,
+         "dayId": 8,
+         "amount": 1939.17
+      },
+      {
+         "id": 41,
+         "costCodeId": 6,
+         "vendorId": 8,
+         "dayId": 2,
+         "amount": 2286.23
+      },
+      {
+         "id": 42,
+         "costCodeId": 6,
+         "vendorId": 2,
+         "dayId": 9,
+         "amount": 1538.98
+      },
+      {
+         "id": 43,
+         "costCodeId": 6,
+         "vendorId": 2,
+         "dayId": 1,
+         "amount": 180.37
+      },
+      {
+         "id": 44,
+         "costCodeId": 2,
+         "vendorId": 1,
+         "dayId": 3,
+         "amount": 2481.3
+      },
+      {
+         "id": 45,
+         "costCodeId": 4,
+         "vendorId": 2,
+         "dayId": 12,
+         "amount": 2408.08
+      },
+      {
+         "id": 46,
+         "costCodeId": 8,
+         "vendorId": 10,
+         "dayId": 3,
+         "amount": 1943.37
+      },
+      {
+         "id": 47,
+         "costCodeId": 1,
+         "vendorId": 1,
+         "dayId": 12,
+         "amount": 539.59
+      },
+      {
+         "id": 48,
+         "costCodeId": 5,
+         "vendorId": 8,
+         "dayId": 10,
+         "amount": 313.39
+      },
+      {
+         "id": 49,
+         "costCodeId": 13,
+         "vendorId": 7,
+         "dayId": 2,
+         "amount": 1146.62
+      },
+      {
+         "id": 50,
+         "costCodeId": 12,
+         "vendorId": 10,
+         "dayId": 2,
+         "amount": 2184.31
+      }
+   ]
+}
