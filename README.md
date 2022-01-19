@@ -1,10 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-#Bruno's API
+##Bruno's API
 
-## Getting Started
+### Getting Started
 
-### Entities / Endpoints
+#### Entities / Endpoints
 
 - Vendor (/api/vendors | /api/vendors/:id)
 - Cost Code (/api/cost-codes | /api/cost-codes/:id)
