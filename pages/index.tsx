@@ -8,7 +8,6 @@ const Home: NextPage = () => {
       <Head>
         <title>Bruno API</title>
         <meta name="description" content="Data API created by master Bruno!" />
-        <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className={styles.main}>
